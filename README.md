@@ -12,5 +12,5 @@ To use those images
 .Here are some preview images
 
 Home page
-![image](https://user-images.githubusercontent.com/93634913/141075724-2a21db9f-f0d6-4628-bb9c-8b084e911b77.png)
+
 
