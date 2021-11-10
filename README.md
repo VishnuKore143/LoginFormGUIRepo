@@ -26,4 +26,8 @@ SignIn Page
 
 ![Screenshot (24)](https://user-images.githubusercontent.com/93634913/141076240-d450b202-6e63-4d94-a801-00de04bc36ab.png)
 
+Successfully Logged in page
+
+![Screenshot (25)](https://user-images.githubusercontent.com/93634913/141076347-a0176468-9bdc-499f-9927-b07a6a11754d.png)
+
 
