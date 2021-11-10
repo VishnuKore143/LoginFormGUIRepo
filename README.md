@@ -7,9 +7,9 @@ There are two python file there
 2. LoginFormGUItkinter.py is GUI form with images. 
 
 To use those images
-1. Make sure to paste image along with the python file in the main folder where you have open your editor
+1. Make sure to paste image along with the python file in the main folder where you have open your editor/IDE
 
-.Here are some preview images
+Here are some preview images
 
 Home page
 
@@ -26,7 +26,7 @@ SignIn Page
 
 ![Screenshot (24)](https://user-images.githubusercontent.com/93634913/141076240-d450b202-6e63-4d94-a801-00de04bc36ab.png)
 
-Successfully Logged in page
+Successfully signed in page
 
 ![Screenshot (25)](https://user-images.githubusercontent.com/93634913/141076347-a0176468-9bdc-499f-9927-b07a6a11754d.png)
 
