@@ -1,1 +1,0 @@
-hello there this is a sign up and login in app in tkinter using sqlite3 database in python 3
